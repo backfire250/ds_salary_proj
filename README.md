@@ -1,4 +1,4 @@
-# Project 1: Data Science Salary Estimator: Project Overview 
+# Data Science Salary Estimator: Project Overview 
 **Project Goal**:  Created a tool that estimates data science salaries based on some factors associated with the job: geography, job title, company size, industry, # of competitors etc.
 * Scraped 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on Python, Excel, AWS, and Spark. 
@@ -25,6 +25,7 @@
 **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2=
 
 ## YouTube Project Walk-Through
+For this project, I followed the below YouTube video series to familiarize myself with some data science tools:
 https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 ## Web Scraping
