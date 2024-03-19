@@ -55,7 +55,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *	Parsed rating out of company text 
 *	Made a new column for company state 
 *	Added a column to indicate if the job was at the company’s headquarters 
-*	Transformed 'founded date' columnn into 'age of company' 
+*	Transformed 'founded date' column into 'age of company' 
 *	Made columns to show if different skills were listed in the job description:
     * Python  
     * R  
